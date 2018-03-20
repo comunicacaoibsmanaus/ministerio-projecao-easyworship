@@ -8,3 +8,7 @@
 *.avi
 
 *.mov
+
+easyworship/Default/v6.1/Databases/Locks/
+
+easyworship/Default/v6.1/Datacache/
